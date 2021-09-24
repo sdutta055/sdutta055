@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data analytics and Data analytics
 - 🌱 I’m currently learning Algo trading
 - 💞️ I’m looking to collaborate on Algo trading
-- 📫 How to reach me @saptarshijucse@gmail.com
+- 📫 Reach me @saptarshijucse@gmail.com
 
 <!---
 sdutta055/sdutta055 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
